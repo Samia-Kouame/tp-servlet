@@ -6,6 +6,7 @@ FONCTIONNALITES:
 ----------------
  **Ajouter une machine** : Cette fonctionnalité vous permet d'intégrer une nouvelle machine dans le système en fournissant des détails tels que la référence de la machine, la marque, son prix, et en l'associant à une salle spécifique. **Supprimer une machine** 
  LA PAGE WEB :
- ![image](https://github.com/Samia-Kouame/tp-servlet/assets/147660832/f70027b5-1835-49da-a55c-89b3c5e0be4c)
 
-![6](https://github.com/Samia-Kouame/tp-servlet/assets/147660832/332eadde-b678-4d29-8980-fd85cf7f1fbe)
+ ![Capture d'écran 2023-10-27 182259](https://github.com/Samia-Kouame/tp-servlet/assets/147660832/fefcc0d4-1269-44fb-8ad1-640d60a5a3c9)
+
+
